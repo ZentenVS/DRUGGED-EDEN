@@ -119,7 +119,7 @@ All modules will automatically enforce this scope.
 Clone the repository
 
 ```
-git clone https://github.com/yourusername/drugged-eden.git
+git clone https://github.com/ZentenVS/DRUGGED-EDEN.git
 ```
 
 Navigate to the directory
@@ -356,6 +356,6 @@ MIT License
 Developed by the Zenten project.
 More modules and improvements will be added over time.
 discord- zentenv
-
-
+dms me over discord for any inquires or if anyone is interested to help in the development of this project so enjoy :)
+NOTE: ill soon add more forms of hacking in this tool so stay tuned :3
 
