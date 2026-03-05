@@ -1,4 +1,4 @@
-# DRUGGED-EDEN
+
 # DRUGGED EDEN
 
 A modular **OSINT reconnaissance and intelligence gathering tool** designed for penetration testers, security researchers, and ethical hackers.
